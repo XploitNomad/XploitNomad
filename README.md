@@ -66,3 +66,8 @@ Operating Systems
 ## TryhackMe Portfolio
 
 @  https://tryhackme.com/p/XploitNomad
+
+## Projects 
+
+Mini SOC Lab
+SOC Incident Investigation Lab
