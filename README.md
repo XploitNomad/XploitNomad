@@ -51,9 +51,6 @@ Operating Systems
 ## Certification & Badges 
 
 <a href="./Certifications/Cisco-Introduction-to-Cybersecurity.pdf"> <img src="https://img.shields.io/badge/-Cisco_Introduction_to_Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> </a>
-<a href="./Certifications/Datacom_Cybersecurity_Job_Simulation.pdf"> <img src="https://img.shields.io/badge/-Datacom_Cybersecurity_Job_Simulation-FF6B00?&style=for-the-badge" /> </a>
-<a href="./Certifications/Splunk-Introduction-to-Enterprise-Security.pdf">
-    <img src="https://img.shields.io/badge/-Splunk_Enterprise_Security-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</a>
-<a href="./Certifications/Splunk_Cybersecurity_Landscape.pdf"> <img src="https://img.shields.io/badge/-Splunk_Cybersecurity_Landscape-000000?&style=for-the-badge&logo=splunk&logoColor=white" /> </a>
-    
+<a href="./Certifications/Datacom-Cybersecurity-Job-Simulation.pdf"> <img src="https://img.shields.io/badge/-Datacom_Cybersecurity_Job_Simulation-FF6B00?&style=for-the-badge" /> </a> 
+<a href="./Certifications/Deloitte-Cybersecurity-Job-Simulation.pdf_certificate.pdf"> <img src="https://img.shields.io/badge/-Deloitte_Cybersecurity_Job_Simulation-0A66C2?&style=for-the-badge" /> </a>
+<a href="./Certifications/Splunk-The-Cybersecurity-Landscape.pdf"> <img src="https://img.shields.io/badge/-Splunk_The_Cybersecurity_Landscape-000000?&style=for-the-badge&logo=splunk&logoColor=white" /> </a>
