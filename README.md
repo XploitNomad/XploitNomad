@@ -58,3 +58,6 @@ Operating Systems
 <a href="./Certifications/Splunk-SOC-Investigating-with-ES-8.X.pdf">
     <img src="https://img.shields.io/badge/-Splunk_SOC_Investigation-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </a>
+<a href="./Certifications/Splunk-SOC-Defense Analysis.pdf">
+    <img src="https://img.shields.io/badge/-Splunk_SOC_Defense-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
