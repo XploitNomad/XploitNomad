@@ -22,4 +22,29 @@ My journey in computer science and cybersecurity has inspired me to pursue a car
 | Network Analysis | TryHackMe Labs|
 
 
+## Tools
+
+Security Monitoring & SIEM
+
+### Security Monitoring & SIEM
+
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-4D4D4D?&style=for-the-badge" />
+</div>
+
+
+Network Analysis
+
+<div> <img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-TCP%2FIP-00599C?&style=for-the-badge" /> </div>
+
+Digital Forensics 
+
+<div> <img src="https://img.shields.io/badge/-Autopsy-4B275F?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-FTK_Imager-003366?&style=for-the-badge" /> </div>
+
+Operating Systems
+
+<div> <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" /> </div>
+
     
