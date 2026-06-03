@@ -61,3 +61,8 @@ Operating Systems
 <a href="./Certifications/Splunk-SOC-Defense Analysis.pdf">
     <img src="https://img.shields.io/badge/-Splunk_SOC_Defense-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </a>
+
+
+## TryhackMe Portfolio
+
+@  https://tryhackme.com/p/XploitNomad
