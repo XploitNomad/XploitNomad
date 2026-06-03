@@ -47,4 +47,8 @@ Operating Systems
 
 <div> <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" /> </div>
 
+
+## Certification & Badges 
+
+
     
