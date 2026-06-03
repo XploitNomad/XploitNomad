@@ -55,3 +55,6 @@ Operating Systems
 <a href="./Certifications/Deloitte-Cybersecurity-Job-Simulation.pdf_certificate.pdf"> <img src="https://img.shields.io/badge/-Deloitte_Cybersecurity_Job_Simulation-0A66C2?&style=for-the-badge" /> </a>
 <a href="./Certifications/Splunk-The-Cybersecurity-Landscape.pdf"> <img src="https://img.shields.io/badge/-Splunk_The_Cybersecurity_Landscape-000000?&style=for-the-badge&logo=splunk&logoColor=white" /> </a>
 <a href="./Certifications/Splunk-Introduction-to-Enterprise-Security.pdf.pdf"> <img src="https://img.shields.io/badge/-Splunk_Introduction_to_Enterprise_Security-000000?&style=for-the-badge&logo=splunk&logoColor=white" /> </a>
+<a href="./Certifications/Splunk-SOC-Investigating-with-ES-8.X.pdf">
+    <img src="https://img.shields.io/badge/-Splunk_SOC_Investigation-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
