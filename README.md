@@ -69,6 +69,6 @@ Operating Systems
 
 ## Projects 
 
-Mini SOC Lab
+SOC-DFIR-Threat-Hunting-Lab
 
-SOC Incident Investigation Lab
+Network-Traffic-Investigation-Lab-
