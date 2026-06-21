@@ -69,6 +69,6 @@ Operating Systems
 
 ## Projects 
 
-SOC-DFIR-Threat-Hunting-Lab[ (repo) : 
+SOC-DFIR-Threat-Hunting-Lab[ (repo) : https://github.com/XploitNomad/SOC-DFIR-Threat-Hunting-Lab.git
 
 Network-Traffic-Investigation-Lab-  (repo) : https://github.com/XploitNomad/Network-Traffic-Investigation-Lab-.git
