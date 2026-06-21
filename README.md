@@ -16,8 +16,8 @@ My journey in computer science and cybersecurity has inspired me to pursue a car
 |-----------------------------------------------|----------------------------|
 |Security Monitoring & Log Analysis          | <a href="https://google.com">Mini SOC Lab</a>|
 | Windows Event Log Investigation | <a href="https://google.com">SOC Incident Investigation Lab</a>|
-| SIEM Deployment & Configuration        | Mini SOC Lab|
-| Threat Detection & Alert Analysis     | Mini SOC Lab|
+| SIEM Deployment & Configuration        |mini soc lab|
+| Threat Detection & Alert Analysis     |<a href="https://github.com/XploitNomad/SOC-DFIR-Threat-Hunting-Lab.git">SOC-DFIR-Threat-Hunting-Lab</a>|
 | Malware & Threat Analysis Fundamentals                 | TryHackMe Labs|
 | Network Analysis | TryHackMe Labs|
 
